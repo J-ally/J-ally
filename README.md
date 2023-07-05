@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Twitter Follow](https://twitter/follow/JAllyndree)
-
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FJAllyndree&style=flat-square)
 <!--
 **J-ally/J-ally** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
