@@ -6,7 +6,7 @@ Currently working at the BIOEPAR UMR in the PEP'S research team.
 
 ## About Me
 
-🎓 Recently graduated from [AgroParisTech](https://synapses.agroparistech.fr/catalogue/2022-2023/parcours/201/IDF3A-IODAA-de-l-information-a-la-decision-par-l-analyse-et-l-apprentissage) (IODAA specialization) and [University Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/bio-informatique/m2-biologie-computationnelle-analyse-modelisation-et-ingenierie-de-linformation-biologique-et-medicale) (AMI2B specializatoin), I bring a unique blend of engineering skills, strong biologic formation and academic knowledge to the world of data science.
+🎓 Recently graduated from [AgroParisTech](https://synapses.agroparistech.fr/catalogue/2022-2023/parcours/201/IDF3A-IODAA-de-l-information-a-la-decision-par-l-analyse-et-l-apprentissage) (IODAA specialization) and [University Paris Saclay](https://www.universite-paris-saclay.fr/formation/master/bio-informatique/m2-biologie-computationnelle-analyse-modelisation-et-ingenierie-de-linformation-biologique-et-medicale) (AMI2B specialization), I bring a unique blend of engineering skills, strong biologic formation and academic knowledge to the world of data science.
 
 🔍 My GitHub is a dynamic portfolio showcasing diverse projects—from internships to student days—reflecting my journey and growth in the field.
 
