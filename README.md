@@ -12,9 +12,6 @@ Currently working at the BIOEPAR UMR in the PEP'S research team.
 
 ## Portfolio Highlights
 
-- [Project 1](link-to-project-1): A brief description of the project.
-- [Project 2](link-to-project-2): Another exciting endeavor.
-
 Explore more on my [GitHub Repositories](https://github.com/J-ally?tab=repositories).
 
 ## Let's Connect
