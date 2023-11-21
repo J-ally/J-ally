@@ -16,11 +16,11 @@ Explore more on my [GitHub Repositories](https://github.com/J-ally?tab=repositor
 
 ## Let's Connect
 
-🌐 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/joseph-allyndree-904bb71b5)
+🌐 **LinkedIn:** [Joseph on Linkedin](www.linkedin.com/in/joseph-allyndree-904bb71b5)
 
-🐦 **Twitter:** [Your Twitter Profile](https://twitter.com/JAllyndree)
+🐦 **Twitter:** [Joseph on Twitter](https://twitter.com/JAllyndree)
 
-📫 **Email:** [Your Email](joseph.allyndree@inrae.fr)
+📫 **Email:** [Write an email to Joseph](joseph.allyndree@inrae.fr)
 
 Feel free to reach out and connect! I'm always open to interesting conversations and collaborations.
 
