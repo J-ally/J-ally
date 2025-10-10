@@ -16,7 +16,7 @@ Explore more on my [GitHub Repositories](https://github.com/J-ally?tab=repositor
 
 ## Let's Connect
 
-🌐 **LinkedIn:** [Joseph on Linkedin](www.linkedin.com/in/joseph-allyndree-904bb71b5)
+🌐 **LinkedIn:** [Joseph on Linkedin](www.linkedin.com/in/joseph-allyndree)
 
 🐦 **Twitter:** [Joseph on Twitter](https://twitter.com/JAllyndree)
 
