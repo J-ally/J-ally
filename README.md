@@ -10,6 +10,10 @@ Currently working at the BIOEPAR UMR in the PEP'S research team.
 
 🔍 My GitHub is a dynamic portfolio showcasing diverse projects—from internships to student days—reflecting my journey and growth in the field.
 
+## My research website
+
+[Joseph Allyndrée](https://j-ally.github.io/Joseph_Allyndree/).
+
 ## Portfolio Highlights
 
 Explore more on my [GitHub Repositories](https://github.com/J-ally?tab=repositories).
